@@ -1,0 +1,131 @@
+h1 {
+  color: rgb(224, 216, 206);
+  margin: 2.88%;
+  font-weight: 800;
+  font-family: "Rowdies", cursive;
+  text-transform: uppercase;
+  /* color: white; */
+  border-bottom: 4px solid grey;
+  width: 30%;
+  padding-bottom: 12px;
+}
+body {
+  background-color: black;
+}
+img {
+  margin: 2.88%;
+}
+
+.supermanfive:hover {
+  background-image: linear-gradient(
+    rgb(0, 141, 235),
+    rgb(245, 210, 10),
+    rgb(10, 245, 22)
+  );
+}
+.Batman:hover {
+  /* width: 250px;
+  height: 250px; */
+  background-image: linear-gradient(rgb(217, 97, 247), rgb(95, 192, 76));
+}
+.forever:hover {
+  background-image: linear-gradient(rgb(155, 83, 83), rgb(67, 240, 14));
+}
+.returns:hover {
+  background-image: linear-gradient(rgb(160, 193, 243), rgb(49, 42, 4));
+}
+.robin:hover {
+  background-image: linear-gradient(rgb(241, 40, 33), rgb(24, 15, 13));
+}
+.superman:hover {
+  background-image: linear-gradient(
+    rgb(0, 141, 235),
+    rgb(245, 210, 10),
+    rgb(245, 10, 10)
+  );
+}
+.supermantwo:hover {
+  background-image: linear-gradient(
+    rgb(0, 141, 235),
+    rgb(182, 155, 0),
+    rgb(65, 1, 1)
+  );
+}
+.manofsteel:hover {
+  background-image: linear-gradient(rgb(32, 95, 121), rgb(151, 27, 27));
+}
+.begins:hover {
+  background-image: linear-gradient(rgb(238, 155, 59), rgb(20, 8, 8));
+}
+.tdk:hover {
+  background-image: linear-gradient(
+    rgb(27, 61, 112),
+    rgb(230, 135, 11),
+    rgb(15, 3, 3)
+  );
+}
+.rises:hover {
+  background-image: linear-gradient(rgb(118, 231, 235), rgb(20, 8, 8));
+}
+.bvs:hover {
+  background-image: linear-gradient(rgb(1, 66, 245), rgb(128, 113, 86));
+}
+.ww:hover {
+  background-image: linear-gradient(rgb(255, 179, 37), rgb(47, 134, 123));
+}
+.wwtwo:hover {
+  background-image: linear-gradient(
+    rgb(255, 179, 37),
+    rgb(47, 134, 123),
+    rgb(81, 153, 79)
+  );
+}
+.aquaman:hover {
+  background-image: linear-gradient(
+    rgb(255, 197, 37),
+    rgb(84, 102, 201),
+    rgb(109, 226, 105)
+  );
+}
+.shazam:hover {
+  background-image: linear-gradient(rgb(245, 1, 1), rgb(128, 113, 86));
+}
+.greenlantern:hover {
+  background-image: linear-gradient(rgb(130, 255, 13), rgb(147, 182, 65));
+}
+.watchmen:hover {
+  background-image: linear-gradient(rgb(18, 48, 133), rgb(143, 91, 49));
+}
+.cons:hover {
+  background-image: linear-gradient(rgb(245, 1, 1), rgb(145, 104, 28));
+}
+.ss:hover {
+  background-image: linear-gradient(rgb(50, 245, 1), rgb(235, 31, 184));
+}
+.bop:hover {
+  background-image: linear-gradient(rgb(163, 214, 43), rgb(221, 96, 107));
+}
+.joker:hover {
+  background-image: linear-gradient(rgb(214, 43, 43), rgb(194, 185, 56));
+}
+.zsjl:hover {
+  background-image: linear-gradient(rgb(104, 75, 75), rgb(93, 104, 114));
+}
+.tss:hover {
+  background-image: linear-gradient(rgb(245, 46, 46), rgb(223, 226, 60));
+}
+div:hover {
+  border: 300px;
+  width: 300px;
+}
+
+div {
+  /* size: 250px; */
+  /* background-image: linear-gradient(black, rgb(163, 163, 143)); */
+  border: 250px;
+  width: 250px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgb(2, 2, 22);
+  padding-left: 50px;
+}
